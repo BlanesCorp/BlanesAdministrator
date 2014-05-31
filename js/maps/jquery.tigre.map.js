@@ -138,6 +138,8 @@ $('document').ready(function()
 //							map: map
 //		            			});
 
+						mark_icon="img/markers/flag_blue_48.png"
+
 					switch (natureza_juridica){
 						case "Entidade Privada Sem Fins Lucrativos":				
 						mark_icon="img/markers/flag_blue_48.png"
